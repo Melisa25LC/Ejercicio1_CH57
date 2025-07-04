@@ -3,3 +3,6 @@ comida china
 chocolate 
 café
 pan 
+azucar
+flores 
+y muchos colores
